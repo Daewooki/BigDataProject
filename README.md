@@ -7,8 +7,7 @@ multicampus-ds school
 
 1.  Pandas 기초 익히기 (Pandas Tutorial.ipynb or Pandas Tutorial.html)
 2.  Pandas 정렬, 테이블 합치기, 데이터 타입 (Pandas Tutorial2.ipynb or Pandas Tutorial2.html)
-
-
+3.  Database connect,  Merge, Concat
 
 Assignment
 1. kmong data 
